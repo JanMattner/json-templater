@@ -1,6 +1,6 @@
 {
-  "name": "json-templater",
-  "version": "1.0.1",
+  "name": "json-templater-fix",
+  "version": "1.0.2",
   "description": "Simple json/js object template strings",
   "main": "template.js",
   "scripts": {
@@ -9,20 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lightsofapollo/json-templater.git"
+    "url": "https://github.com/JanMattner/json-templater"
   },
   "keywords": [
     "template",
-    "json",
-    "json",
-    "template"
+    "json"
   ],
-  "author": "James Lal [:lightsofapollo]",
+  "author": "Jan Mattner [:janmattner]",
+  "contributors": {
+    "James Lal [:lightsofapollo]"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lightsofapollo/json-templater/issues"
+    "url": "https://github.com/JanMattner/json-templater/issues"
   },
-  "homepage": "https://github.com/lightsofapollo/json-templater",
+  "homepage": "https://github.com/JanMattner/json-templater",
   "devDependencies": {
     "mocha": "~1.18.2",
     "bench": "~0.3.5",

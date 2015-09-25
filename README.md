@@ -1,4 +1,7 @@
-# json-templater [![Build Status](https://travis-ci.org/lightsofapollo/json-templater.svg?branch=master)](https://travis-ci.org/lightsofapollo/json-templater)
+# json-templater-fix [![Build Status](https://travis-ci.org/JanMattner/json-templater.svg?branch=release)](https://travis-ci.org/JanMattner/json-templater)
+
+NOTE: This is just a fork of the original [json-templater](https://github.com/lightsofapollo/json-templater) package. This fix now allows that not only pure JSON objects but all kinds of objects can be processed. Before, e.g. function members were removed.
+- - -
 
 JSON template(r) is an opinionated simple way to do mustache style
 template replacements on your js and json objects (and of course
