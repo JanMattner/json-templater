@@ -16,9 +16,9 @@
     "json"
   ],
   "author": "Jan Mattner [:janmattner]",
-  "contributors": {
+  "contributors": [
     "James Lal [:lightsofapollo]"
-  },
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JanMattner/json-templater/issues"
